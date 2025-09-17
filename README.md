@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]([https://github.com/Andrilee88/Testimonial-Grid-Section])
-- Live Site URL: [Netlify]([https://testimonial-grid-section-frontmentor.netlify.app/])
+- Solution URL: [Github](https://github.com/Andrilee88/Testimonial-Grid-Section)
+- Live Site URL: [Netlify](https://testimonial-grid-section-frontmentor.netlify.app/)
 
 ### Built with
 
